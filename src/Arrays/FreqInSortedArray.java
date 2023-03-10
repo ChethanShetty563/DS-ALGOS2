@@ -2,6 +2,8 @@ package Arrays;
 
 public class FreqInSortedArray {
 
+//    Time Complexity: O(N)
+//    Auxiliary Space: O(1)
     static void printFreq(int arr[], int N)
     {
 
