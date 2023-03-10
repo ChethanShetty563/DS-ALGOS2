@@ -36,7 +36,6 @@ public class MaxDiff {
         }
 
         return max;
-
     }
 
     public static void main(String[] args)
